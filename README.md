@@ -4,4 +4,5 @@ In rezolvarea acestor teme am folosit concepte OOP precum :
 - encapsulation
 - inheritance
 - polymorphism
+
 Codul este scris in limbajul C++ iar ca IDE am folosit CLion.
