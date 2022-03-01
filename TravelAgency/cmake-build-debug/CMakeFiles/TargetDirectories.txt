@@ -1,0 +1,3 @@
+C:/z.TOT/a.UNI/Anul II/Sem I/Lab-poo-coduri/Tem/TravelAgency/cmake-build-debug/CMakeFiles/Proiect_2.dir
+C:/z.TOT/a.UNI/Anul II/Sem I/Lab-poo-coduri/Tem/TravelAgency/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/z.TOT/a.UNI/Anul II/Sem I/Lab-poo-coduri/Tem/TravelAgency/cmake-build-debug/CMakeFiles/rebuild_cache.dir

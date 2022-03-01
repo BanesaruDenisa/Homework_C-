@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/z.TOT/a.UNI/Anul II/Sem I/Lab-poo-coduri/Tem/TravelAgency/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+memory
+-
+
