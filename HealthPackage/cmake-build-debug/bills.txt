@@ -1,0 +1,5 @@
+The age is: 23
+Is the customer loyal (0 - no, 1 - yes): 1
+Validity is 3 months 
+Is the customer retired (0 - no, 1 - yes): 0
+The price is: 632.792 RON 

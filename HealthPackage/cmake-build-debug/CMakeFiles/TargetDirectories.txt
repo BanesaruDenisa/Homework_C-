@@ -1,0 +1,3 @@
+C:/z.TOT/a.UNI/Anul II/Sem I/Lab-poo-coduri/Proiect_1_Cerinta_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/z.TOT/a.UNI/Anul II/Sem I/Lab-poo-coduri/Proiect_1_Cerinta_1/cmake-build-debug/CMakeFiles/Proiect_1_Cerinta_1.dir
+C:/z.TOT/a.UNI/Anul II/Sem I/Lab-poo-coduri/Proiect_1_Cerinta_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/z.TOT/a.UNI/Anul II/Sem I/Lab-poo-coduri/Proiect_1_Cerinta_1/header/HealthPackage.h
+iostream
+-
+
+C:/z.TOT/a.UNI/Anul II/Sem I/Lab-poo-coduri/Proiect_1_Cerinta_1/main.cpp
+iostream
+-
+header/HealthPackage.h
+C:/z.TOT/a.UNI/Anul II/Sem I/Lab-poo-coduri/Proiect_1_Cerinta_1/header/HealthPackage.h
+fstream
+-
+

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Proiect_1_Cerinta_1.dir/objects.a
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\Proiect_1_Cerinta_1.dir/objects.a @CMakeFiles\Proiect_1_Cerinta_1.dir\objects1.rsp
+C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Proiect_1_Cerinta_1.dir/objects.a -Wl,--no-whole-archive -o Proiect_1_Cerinta_1.exe -Wl,--out-implib,libProiect_1_Cerinta_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Proiect_1_Cerinta_1.dir\linklibs.rsp
