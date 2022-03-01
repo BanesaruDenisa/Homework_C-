@@ -1,4 +1,4 @@
-# HomeworksC++
+# HomeworkC++
 In rezolvarea acestor teme am folosit concepte OOP precum :
 - abstraction
 - encapsulation
